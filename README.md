@@ -11,5 +11,10 @@ In order to test the code, execute
 	addpath tests;
 	testSeparabilityAnalysis;
 
+## Python 3 implementation (provided by [J.Bac](https://github.com/j-bac) and [L.Albergante](https://github.com/albluca))
 
+In order to test and use the code, open the python notebook
 
+## Acknowledgements
+
+Supported by the University of Leicester (UK), the Ministry of Education and Science of the Russian Federation, project N 14.Y26.31.0022
